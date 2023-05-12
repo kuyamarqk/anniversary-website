@@ -18,7 +18,7 @@
     margin-bottom: 20px;
     font-weight: bold;
     color: #DEDEA7;
-    width: 50ch;
+   
     
   }
   
@@ -26,5 +26,21 @@
     font-size: 18px;
     margin-bottom: 30px;
     color: #DEDEA7;
+  }
+  @media (max-width: 480px) {
+    .hero {
+      height: 160px;
+    }
+  
+    .title {
+      font-size: 20px;
+      margin-bottom: 10px;
+      width: 20ch;
+    }
+  
+    .hero-subheading {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
   }
   

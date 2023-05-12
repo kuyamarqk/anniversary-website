@@ -13,6 +13,8 @@
 .memoriesHeading {
   text-align: center;
   margin-bottom: 40px;
+  color: #643843;
+  font-weight: bold;
 }
 
 .gallery {
@@ -22,6 +24,8 @@
 .galleryTitle {
   text-align: center;
   margin-bottom: 20px;
+  color: #643843;
+  font-weight: bold;
 }
 
 .carousel {

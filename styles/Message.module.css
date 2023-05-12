@@ -11,16 +11,19 @@
   
   .messageHeading {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 48px;
+    color: #643843;
+    font-weight: bold;
   }
   
   .messageContent {
     text-align: center;
+    color: #643843;
   }
   
   @media screen and (max-width: 600px) {
     .messageContent {
-      text-align: left;
+      margin: 5px 20px;
     }
   }
   

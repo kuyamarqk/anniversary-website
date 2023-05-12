@@ -29,12 +29,15 @@
   
   .timelineYear {
     position: absolute;
-    left: -60px;
-    top: 0;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
     background-color: #333;
     color: #fff;
-    padding: 6px 12px;
+    padding: 6px 10px;
     font-weight: bold;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   
   .timelineContent {
@@ -46,7 +49,11 @@
   
   @media screen and (max-width: 600px) {
     .timelineYear {
-      left: auto;
+      transform: translateX(-50%);
+    }
+  
+    .timelineContent {
+      margin: 5px 20px;
     }
   }
   
