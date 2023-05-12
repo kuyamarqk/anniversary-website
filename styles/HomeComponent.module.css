@@ -1,0 +1,25 @@
+.homeSection {
+    background-color: #E7CBCB;
+    padding: 80px 0;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+
+  .title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #643843;
+  }
+  
+  .subtitle {
+    font-size: 18px;
+    color: #99627A;
+  }
+    

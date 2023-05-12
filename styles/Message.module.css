@@ -1,0 +1,26 @@
+.messageSection {
+    background-color: #E7CBCB;
+    padding: 40px 0;
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .messageHeading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .messageContent {
+    text-align: center;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .messageContent {
+      text-align: left;
+    }
+  }
+  

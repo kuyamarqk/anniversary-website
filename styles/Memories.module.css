@@ -1,0 +1,55 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  }
+
+.memoriesSection {
+  padding: 50px 0;
+  margin-bottom: 20px;
+  background-color: #E7CBCB;
+}
+
+.memoriesHeading {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.gallery {
+  margin-bottom: 40px;
+}
+
+.galleryTitle {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.carousel {
+  width: 100%;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  width: 30px;
+  height: 30px;
+  background-size: 100%;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+.photo {
+  display: block;
+    background-position: center;
+    height: 100vh;
+    object-fit: cover;
+    transition: transform 0.3s;
+    margin:0 auto;
+    border: 5px solid;
+}
