@@ -14,16 +14,16 @@
   }
   
   .title {
-    font-size: 36px;
-    margin-bottom: 20px;
+    font-size: 48px;
+    margin-bottom: 20px auto;
     font-weight: bold;
     color: #DEDEA7;
+   max-width: 50ch;
    
-    
   }
   
   .subtitle {
-    font-size: 18px;
+    font-size: 25px;
     margin-bottom: 30px;
     color: #DEDEA7;
   }
@@ -33,9 +33,9 @@
     }
   
     .title {
-      font-size: 20px;
+      font-size: 25px;
       margin-bottom: 10px;
-      width: 20ch;
+      
     }
   
     .hero-subheading {
