@@ -33,35 +33,35 @@ const Timeline = () => {
     },
     {
         year: '2016',
-        event: 'TRANSFER TO A NEW HOUSE AND STARTED FROM NOTHING, OUR SIXTH YEAR TOGETHER',
+        event: 'TRANSFER TO A NEW HOUSE AND STARTED FROM NOTHING, OUR SEVENTH YEAR TOGETHER',
     },
     {
         year: '2017',
-        event: 'OUR FIRST TRAVEL TOGETHER WITH MY BATCHMATE FROM QUEZON PROVINCE, OUR SEVENTH YEAR TOGETHER',
+        event: 'OUR FIRST TRAVEL TOGETHER WITH MY BATCHMATE FROM QUEZON PROVINCE, OUR EIGHT YEAR TOGETHER',
     },
     {
         year: '2018',
-        event: 'OUR EIGHT YEAR TOGETHER',
-    },
-    {
-        year: '2019',
         event: 'OUR NINTH YEAR TOGETHER',
     },
     {
+        year: '2019',
+        event: 'OUR TENTH YEAR TOGETHER',
+    },
+    {
         year: '2020',
-        event: 'COVID 19 - LOST MY JOB - ROELLA BYUL CAME, OUR TENTH YEAR TOGETHER',
+        event: 'COVID 19  - ROELLA BYUL CAME, OUR ELEVENTH YEAR TOGETHER',
     },
     {
         year: '2021',
-        event: '1ST BIRTHDAY OF BYUL - OUR ELEVENTH YEAR TOGETHER',
+        event: '1ST BIRTHDAY OF BYUL - OUR TWELVETH YEAR TOGETHER',
     },
     {
         year: '2022',
-        event: 'OUR TWELVETH YEAR TOGETHER',
+        event: 'OUR THIRTEENTH YEAR TOGETHER',
     },
     {
         year: '2023',
-        event: 'OUR THIRTEENTH YEAR TOGETHER',
+        event: 'OUR FOURTEENTH YEAR TOGETHER',
     },
   ];
 
