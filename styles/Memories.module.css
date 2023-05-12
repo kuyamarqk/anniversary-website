@@ -47,9 +47,8 @@
 .photo {
   display: block;
     background-position: center;
-    height: 100vh;
+    height: auto;
     object-fit: cover;
-    transition: transform 0.3s;
     margin:0 auto;
     border: 5px solid;
 }
